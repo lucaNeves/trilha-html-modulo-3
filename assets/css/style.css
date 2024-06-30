@@ -68,3 +68,6 @@ figure {
 .section-title a{
  padding-left: 20px;
 }
+p{
+    text-align: justify;
+}
